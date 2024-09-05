@@ -1,9 +1,6 @@
 # weather-data-project
-Weather data repository for the Comprehensive Data Management in Agriculture course
+Weather data repository for the Comprehensive Data Visualization in Agriculture course
 
-Data Visualization & Dashboards in Agriculture
-ABE 6933 – Special Topics in Agricultural and Biological Engineering 
-Activity: Managing Data with Git
 
 ![image](https://github.com/user-attachments/assets/3f68856a-d63c-455c-ba2e-f2556c6c91f6)
 
